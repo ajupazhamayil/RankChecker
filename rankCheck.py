@@ -9,5 +9,5 @@ def rankCheck(rsk):
 
 
 
-site = "nitk.ac.in"
+site = "www.google.com"
 rankCheck(site)
